@@ -1,4 +1,3 @@
-#Sequelize course
+# Introduce-Sequelize-ORM
 
-- NVM
-- DOCKER
+Self Learning About Sequelize
