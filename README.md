@@ -1,0 +1,4 @@
+#Sequelize course
+
+- NVM
+- DOCKER
